@@ -1,0 +1,14 @@
+@mixin logo-headline {
+  font: 300 32px "Raleway", sans-serif;
+  color: $first-color;
+}
+
+@mixin opening-headline {
+  font: 400 32px "Raleway", sans-serif;
+  color: $text-color;
+}
+
+@mixin opening-paragraph {
+  font: 400 32px "Open Sans", sans-serif;
+  color: $text-color;
+}
